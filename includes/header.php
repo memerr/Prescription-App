@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <title>Poly</title>
+  <title>DocuMed</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
   <meta name="mobile-web-app-capable" content="yes">
@@ -23,8 +23,12 @@
   <link rel="import" href="bower_components/paper-input/paper-input.html">
   <link rel="import" href="bower_components/paper-input/paper-textarea.html">
   <link rel="import" href="bower_components/paper-fab/paper-fab.html">
+  <link rel="import" href="bower_components/paper-badge/paper-badge.html">
   <link rel="import" href="bower_components/paper-styles/color.html">
   <link rel="import" href="bower_components/iron-icons/iron-icons.html">
+  <link rel="import" href="bower_components/paper-menu-button/paper-menu-button.html">
+  <link rel="import" href="bower_components/paper-menu/paper-menu.html">
+
 
   <link rel="stylesheet" href="styles.css">
   <!-- <link rel="stylesheet" href="custom.css"> -->

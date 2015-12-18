@@ -1,13 +1,14 @@
-<?php 
+<?php
   include_once 'dbconfig.php';
   include 'includes/header.php';
 ?>
 
   <paper-toolbar>
     <!-- <paper-icon-button icon="menu"></paper-icon-button> -->
-    <span class="flex">Prescription App</span>
+    <a class="arrow-back color-white" href="patient-dashboard.php"><paper-icon-button icon="arrow-back"></paper-icon-button></a>
+    <span class="flex">View Prescriptions</span>
   </paper-toolbar>
-  
+
   <input type="hidden" name="patientid" value="1" />
 
   <?php

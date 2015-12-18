@@ -1,9 +1,9 @@
 <?php
-error_reporting(0);
+error_reporting(1);
 $host = "localhost";
 $user = "root";
 $password = "root";
-$datbase = "poly";
+$datbase = "Poly";
 mysql_connect($host,$user,$password);
 mysql_select_db($datbase);
 ?>
