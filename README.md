@@ -1,7 +1,7 @@
 # Prescription-App
 
 ## License
-Copyright (c) 2015 Franz Carmeli Villamin, Virmon Tumulak, Jimson Sulit, Ricardo Raphael Joson
+Copyright (c) 2015 Franz Carmeli Villamin, Virmon Tumulak, Jimson Sulit, Ricardo Raphael Joson, Gabriel Dimapawi, Karol Pedrosa, Zishran Garces
 
 
 
